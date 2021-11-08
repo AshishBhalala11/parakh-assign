@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/parakh-assign/static/css/main.71c1b2e8.chunk.css",
+    "main.js": "/parakh-assign/static/js/main.1655cb6e.chunk.js",
+    "main.js.map": "/parakh-assign/static/js/main.1655cb6e.chunk.js.map",
+    "runtime-main.js": "/parakh-assign/static/js/runtime-main.286574e6.js",
+    "runtime-main.js.map": "/parakh-assign/static/js/runtime-main.286574e6.js.map",
+    "static/js/2.0c4f9d15.chunk.js": "/parakh-assign/static/js/2.0c4f9d15.chunk.js",
+    "static/js/2.0c4f9d15.chunk.js.map": "/parakh-assign/static/js/2.0c4f9d15.chunk.js.map",
+    "index.html": "/parakh-assign/index.html",
+    "static/css/main.71c1b2e8.chunk.css.map": "/parakh-assign/static/css/main.71c1b2e8.chunk.css.map",
+    "static/js/2.0c4f9d15.chunk.js.LICENSE.txt": "/parakh-assign/static/js/2.0c4f9d15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.286574e6.js",
+    "static/js/2.0c4f9d15.chunk.js",
+    "static/css/main.71c1b2e8.chunk.css",
+    "static/js/main.1655cb6e.chunk.js"
+  ]
+}
